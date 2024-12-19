@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Aditya-Sharma1190/osticket-prereqs)
   - [osTicket: Configuration and Ticket Creation](https://github.com/Aditya-Sharma1190/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorccd/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorccd/azure-network-protocols)
 
 <h2>Connect with me:</h2>
