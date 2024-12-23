@@ -6,7 +6,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory Deployment and Group Policy Management using Windows PowerSell in Cloud (AZURE)](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
   - [DNS : A-Record Exercise, Local DNS Cache Exercise, CNAME Record Exercise](https://github.com/Aditya-Sharma1190/DNS)
-  - [Network File Shares and Permissions](https://github.com/Aditya-Sharma190/DNS)
+  - [Network File Shares and Permissions](https://github.com/Aditya-Sharma1190/Network-fileshare)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Aditya-Sharma1190/osticket-prereqs)
