@@ -8,7 +8,7 @@
   - [osTicket: Configuration and Ticket Creation](https://github.com/Aditya-Sharma1190/post-install-config)
 - <b>Microsoft Azure</b>
   - [Active Directory Deployment and Group Policy Management using Windows PowerSell in Cloud (AZURE)](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
-  - [DNS : A-Record Exercise, Local DNS Cache Exercise, CNAME Record Exercise](https://github.com/joshmadakorccd/azure-network-protocols)
+  - [DNS : A-Record Exercise, Local DNS Cache Exercise, CNAME Record Exercise](https://github.com/Aditya-Sharma1190/DNS)
 
 <h2>Connect with me:</h2>
 [linkedin]:https://www.linkedin.com/in/aditya-sharma-62a362165/
