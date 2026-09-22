@@ -5,6 +5,8 @@
 
 - <b>Cybersecurity Projects:</b>
 
+ - [Encryption](https://github.com/Aditya-Sharma1190/Cybersecurity/blob/main/Aditya%20Sharma%20Encryption%20Project.pdf)
+
 - <b>Microsoft Azure</b>
   - [Active Directory Deployment and Group Policy Management using Windows PowerSell in Cloud (AZURE)](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
   - [DNS : A-Record Exercise, Local DNS Cache Exercise, CNAME Record Exercise](https://github.com/Aditya-Sharma1190/DNS)
