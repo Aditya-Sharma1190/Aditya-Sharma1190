@@ -2,7 +2,9 @@
 62a362165/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
-<b>Cybersecurity Projects:</b>
+
+- <b>Cybersecurity Projects:</b>
+
 - <b>Microsoft Azure</b>
   - [Active Directory Deployment and Group Policy Management using Windows PowerSell in Cloud (AZURE)](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
   - [DNS : A-Record Exercise, Local DNS Cache Exercise, CNAME Record Exercise](https://github.com/Aditya-Sharma1190/DNS)
