@@ -7,6 +7,8 @@
 
  - [Encryption](https://github.com/Aditya-Sharma1190/Cybersecurity/blob/main/Aditya%20Sharma%20Encryption%20Project.pdf)
  - [Endpoint Security Policy Project](https://github.com/Aditya-Sharma1190/Cybersecurity/blob/main/Endpoint%20Security%20Policy%20Project.docx)
+-  [Incident Management Plan Project](https://github.com/Aditya-Sharma1190/Cybersecurity/blob/main/Incident%20Management%20Plan.docx)
+-  [Security Exploit Project](https://github.com/Aditya-Sharma1190/Cybersecurity/blob/main/Security%20Exploit%20and%20Network%20Defense.docx)
 
 - <b>Microsoft Azure</b>
   - [Active Directory Deployment and Group Policy Management using Windows PowerSell in Cloud (AZURE)](https://github.com/Aditya-Sharma1190/Active-Directory-in-Azure)
